@@ -45,7 +45,7 @@ class Server
                 // Prompt client to enter credentials
                 SendToClient(clientSocket, "Password accepted.");
                 SendToClient(clientSocket, "If you've account, type \"login\", else type \"signup\"");
-                var whichOne = Console.ReadLine();
+                var whichOne = ReceiveFromClient(clientSocket);
                 if (whichOne == "login")
                 {
 
