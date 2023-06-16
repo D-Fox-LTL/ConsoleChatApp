@@ -1,0 +1,17 @@
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\bin\Debug\net7.0\ConsoleChatAppServer.exe
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\bin\Debug\net7.0\ConsoleChatAppServer.deps.json
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\bin\Debug\net7.0\ConsoleChatAppServer.runtimeconfig.json
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\bin\Debug\net7.0\ConsoleChatAppServer.dll
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\bin\Debug\net7.0\ConsoleChatAppServer.pdb
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.csproj.AssemblyReference.cache
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.AssemblyInfoInputs.cache
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.AssemblyInfo.cs
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.csproj.CoreCompileInputs.cache
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.csproj.CopyComplete
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.dll
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\refint\ConsoleChatAppServer.dll
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.pdb
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ConsoleChatAppServer.genruntimeconfig.cache
+C:\Users\vojta\Desktop\C#\consoleChatAppClient\ConsoleChatAppServer\obj\Debug\net7.0\ref\ConsoleChatAppServer.dll

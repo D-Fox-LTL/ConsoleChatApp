@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQlprhf7/QC+RxrJyI2FHQxbUqPPdun9Rf5CodYPMT9R1levKMHM0A4/RmfYVHdJyxshVdvHjk98e9kEfr5oOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vojta\\Desktop\\C#\\consoleChatAppClient\\ConsoleChatAppServer\\ConsoleChatAppServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vojta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
