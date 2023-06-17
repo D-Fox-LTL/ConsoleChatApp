@@ -95,7 +95,9 @@ class Server
 
                     SaveCredentials();
 
-                    Console.WriteLine("Credentials saved to JSON file.");
+                    Console.WriteLine("User credentials saved to JSON file. " + clientSocket +" " + lstrClientUsername);
+                    SendToClient(clientSocket, "credentials saved to JSON file.");
+
                 }
                 else
                 {
